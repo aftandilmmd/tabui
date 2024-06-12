@@ -1,0 +1,1 @@
+TabUI (Tailiwind Alpine Blade) is a comprehensive suite of UI components built exclusively with TailwindCSS, Laravel Blade templates, and Vanilla JavaScript. These components are designed for simplicity and offer various levels of customization to suit your needs.
